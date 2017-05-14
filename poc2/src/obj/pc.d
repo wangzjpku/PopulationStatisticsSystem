@@ -1,0 +1,16 @@
+.\obj\pc.o: pc.c
+.\obj\pc.o: d:\Keil\ARM\RV31\Inc\stdio.h
+.\obj\pc.o: d:\Keil\ARM\RV31\Inc\string.h
+.\obj\pc.o: d:\Keil\ARM\RV31\Inc\stdlib.h
+.\obj\pc.o: pc.h
+.\obj\pc.o: uart.h
+.\obj\pc.o: ..\..\..\Include\Driver\DrvUART.h
+.\obj\pc.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\pc.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\pc.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\pc.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\pc.o: ..\..\..\Include\System\SysInfra.h
+.\obj\pc.o: ..\..\..\Include\System\ModuleID.h
+.\obj\pc.o: counter_people.h
+.\obj\pc.o: system.h
+.\obj\pc.o: ..\..\..\Include\Driver\DrvGPIO.h

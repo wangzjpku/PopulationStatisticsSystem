@@ -1,0 +1,13 @@
+.\obj\counter_people.o: counter_people.c
+.\obj\counter_people.o: d:\Keil\ARM\RV31\Inc\string.h
+.\obj\counter_people.o: counter_people.h
+.\obj\counter_people.o: channel.h
+.\obj\counter_people.o: log.h
+.\obj\counter_people.o: ..\..\..\Include\Driver\DrvTIMER.h
+.\obj\counter_people.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\counter_people.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\counter_people.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\counter_people.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\counter_people.o: ..\..\..\Include\System\SysInfra.h
+.\obj\counter_people.o: ..\..\..\Include\System\ModuleID.h
+.\obj\counter_people.o: ..\..\..\Include\Driver\DrvSYS.h

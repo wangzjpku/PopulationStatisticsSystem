@@ -1,0 +1,104 @@
+\t (00:00:37) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:37)     Journal start - Tue Dec 16 10:01:01 2014
+\t (00:00:37)         Host=WZJ-PC User=Administrator Pid=10772 CPUs=4
+\t (00:00:37) 
+\t (00:00:39) Opening existing design...
+\d (00:00:39) Database opened: D:/5-ProjectForLindon/pcbSch_version2/pcb11.brd
+\t (00:00:39) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:00:39) trapsize 391
+\i (00:00:39) trapsize 380
+\i (00:00:39) trapsize 393
+\i (00:00:39) trapsize 399
+\i (00:00:39) trapsize 319
+\i (00:00:39) trapsize 412
+\i (00:00:40) generaledit 
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 6523.4 3062.3
+\i (00:00:42) trapsize 206
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in 6523.4 3062.3
+\i (00:00:42) trapsize 103
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 6523.5 3062.3
+\i (00:00:43) trapsize 51
+\i (00:00:43) zoom in 1 
+\i (00:00:43) setwindow pcb
+\i (00:00:43) zoom in 6523.5 3062.4
+\i (00:00:43) trapsize 26
+\i (00:00:44) zoom in 1 
+\i (00:00:44) setwindow pcb
+\i (00:00:44) zoom in 6514.7 3167.9
+\i (00:00:44) trapsize 13
+\i (00:00:45) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in 6514.5 3166.7
+\i (00:00:45) trapsize 6
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 6528.4 3159.9
+\i (00:00:46) trapsize 13
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 6551.6 3203.6
+\i (00:01:04) trapsize 26
+\i (00:01:04) zoom out 1 
+\i (00:01:04) setwindow pcb
+\i (00:01:04) zoom out 6551.6 3203.7
+\i (00:01:04) trapsize 51
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 6551.6 3267.6
+\i (00:01:06) trapsize 26
+\i (00:01:06) zoom in 1 
+\i (00:01:06) setwindow pcb
+\i (00:01:06) zoom in 6522.3 3264.5
+\i (00:01:06) trapsize 13
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 6547.2 3238.1
+\i (00:01:13) trapsize 26
+\i (00:01:16) zoom out 1 
+\i (00:01:16) setwindow pcb
+\i (00:01:16) zoom out 6258.0 3183.5
+\i (00:01:16) trapsize 51
+\i (00:01:23) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 6281.7 3189.7
+\i (00:01:24) trapsize 26
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 6281.8 3189.7
+\i (00:01:24) trapsize 13
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 6281.8 3189.7
+\i (00:01:24) trapsize 6
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out 6283.4 3191.1
+\i (00:01:27) trapsize 13
+\i (00:01:27) zoom out 1 
+\i (00:01:27) setwindow pcb
+\i (00:01:27) zoom out 6283.4 3191.0
+\i (00:01:27) trapsize 26
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out 6283.2 3191.0
+\i (00:01:28) trapsize 51
+\i (00:01:28) zoom out 1 
+\i (00:01:28) setwindow pcb
+\i (00:01:28) zoom out 6283.3 3191.1
+\i (00:01:28) trapsize 103
+\i (00:01:29) zoom out 1 
+\i (00:01:29) setwindow pcb
+\i (00:01:29) zoom out 6283.1 3191.1
+\i (00:01:29) trapsize 206
+\i (00:01:30) zoom out 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom out 6283.2 3191.1
+\i (00:01:30) trapsize 412
+\i (00:12:11) exit 
+\t (00:12:11)     Journal end - Tue Dec 16 10:12:35 2014

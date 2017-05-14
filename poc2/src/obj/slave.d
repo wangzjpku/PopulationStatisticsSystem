@@ -1,0 +1,15 @@
+.\obj\slave.o: slave.c
+.\obj\slave.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\slave.o: d:\Keil\ARM\RV31\Inc\string.h
+.\obj\slave.o: pc.h
+.\obj\slave.o: uart.h
+.\obj\slave.o: ..\..\..\Include\Driver\DrvUART.h
+.\obj\slave.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\slave.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\slave.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\slave.o: ..\..\..\Include\System\SysInfra.h
+.\obj\slave.o: ..\..\..\Include\System\ModuleID.h
+.\obj\slave.o: counter_people.h
+.\obj\slave.o: system.h
+.\obj\slave.o: ..\..\..\Include\Driver\DrvGPIO.h
+.\obj\slave.o: slave.h

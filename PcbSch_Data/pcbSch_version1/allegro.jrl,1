@@ -1,0 +1,125 @@
+\t (00:00:36) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:36)     Journal start - Tue Oct 28 16:11:41 2014
+\t (00:00:36)         Host=WZJ-PC User=Administrator Pid=4796 CPUs=4
+\t (00:00:36) 
+\d (00:00:36) Database opened: D:/5-ProjectForLindon/pcbSch/pcb.brd
+\i (00:00:36) generaledit 
+\i (00:00:40) zoom out 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom out 2949.5 4395.7
+\i (00:00:40) trapsize 824
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 3203.9 4027.6
+\t (00:00:40) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:00:40) trapsize 412
+\i (00:00:40) zoom in 1 
+\i (00:00:40) setwindow pcb
+\i (00:00:40) zoom in 3203.9 4027.6
+\i (00:00:40) trapsize 206
+\i (00:00:41) zoom out 1 
+\i (00:00:41) setwindow pcb
+\i (00:00:41) zoom out 3203.9 4027.6
+\i (00:00:41) trapsize 412
+\i (00:00:44) zoom in 1 
+\i (00:00:45) setwindow pcb
+\i (00:00:45) zoom in 3014.5 4661.8
+\i (00:00:45) trapsize 206
+\i (00:00:46) zoom out 1 
+\i (00:00:46) setwindow pcb
+\i (00:00:46) zoom out 3014.5 4661.8
+\i (00:00:46) trapsize 412
+\i (00:00:57) idx out 
+\i (00:01:05) setwindow form.idx_out
+\i (00:01:05) FORM idx_out cancel  
+\i (00:01:05) setwindow pcb
+\i (00:01:05) generaledit 
+\i (00:01:09) idf out 
+\i (00:01:14) setwindow form.idf_out
+\i (00:01:14) FORM idf_out browse  
+\i (00:01:18) fillin "menu_cancel"
+\i (00:01:51) FORM idf_out heightfield 180.0 
+\i (00:02:35) FORM idf_out browse  
+\i (00:02:51) fillin "D:\5-ProjectForLindon\pcbSch\idf\pcb.bdf"
+\i (00:02:52) FORM idf_out execute  
+\t (00:02:52) Starting idf_out...
+\i (00:03:02) FORM idf_out cancel  
+\i (00:03:02) setwindow pcb
+\i (00:03:02) generaledit 
+\i (00:03:55) idx out 
+\i (00:04:00) setwindow form.idx_out
+\i (00:04:00) FORM idx_out browse  
+\i (00:04:10) fillin "D:\5-ProjectForLindon\pcbSch\idx\pcb.idx"
+\i (00:04:13) FORM idx_out execute  
+\t (00:04:13) Starting idx_out...
+\t (00:04:16) Opening existing design...
+\t (00:04:16) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:04:16) setwindow pcb
+\i (00:04:16) trapsize 412
+\i (00:04:17) generaledit 
+\i (00:04:21) setwindow form.idx_out
+\i (00:04:21) FORM idx_out cancel  
+\i (00:04:21) setwindow pcb
+\i (00:04:21) generaledit 
+\i (00:06:01) zoom out 1 
+\i (00:06:01) setwindow pcb
+\i (00:06:01) zoom out 4060.5 5765.5
+\t (00:06:01) Grids are drawn 160.0, 160.0 apart for enhanced viewability.
+\i (00:06:01) trapsize 824
+\i (00:06:01) zoom out 1 
+\i (00:06:01) setwindow pcb
+\i (00:06:01) zoom out 4917.1 7503.4
+\i (00:06:01) trapsize 824
+\i (00:06:01) zoom out 1 
+\i (00:06:01) setwindow pcb
+\i (00:06:01) zoom out 4917.1 7503.4
+\i (00:06:01) trapsize 824
+\i (00:06:02) zoom in 1 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom in 4060.5 5641.9
+\t (00:06:02) Grids are drawn 40.0, 40.0 apart for enhanced viewability.
+\i (00:06:02) trapsize 412
+\i (00:06:02) zoom in 1 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom in 4060.5 5641.9
+\i (00:06:02) trapsize 206
+\i (00:06:02) zoom in 1 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom in 4060.6 5641.9
+\i (00:06:02) trapsize 103
+\i (00:06:02) zoom in 1 
+\i (00:06:02) setwindow pcb
+\i (00:06:02) zoom in 4060.6 5643.9
+\i (00:06:02) trapsize 51
+\i (00:06:03) zoom in 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom in 3984.5 5775.7
+\i (00:06:03) trapsize 26
+\i (00:06:03) zoom in 1 
+\i (00:06:03) setwindow pcb
+\i (00:06:03) zoom in 3984.5 5775.7
+\i (00:06:03) trapsize 13
+\i (00:06:04) zoom out 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom out 3999.7 5763.3
+\i (00:06:04) trapsize 26
+\i (00:06:04) zoom out 1 
+\i (00:06:04) setwindow pcb
+\i (00:06:04) zoom out 3999.8 5763.4
+\i (00:06:04) trapsize 51
+\i (00:06:05) zoom out 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom out 3999.7 5763.4
+\i (00:06:05) trapsize 103
+\i (00:06:05) zoom out 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom out 3999.7 5763.3
+\i (00:06:05) trapsize 206
+\i (00:06:05) zoom out 1 
+\i (00:06:05) setwindow pcb
+\i (00:06:05) zoom out 3999.7 5763.4
+\i (00:06:05) trapsize 412
+\i (01:19:03) exit 
+\e (01:19:04) Do you want to save the changes you made to D:/5-ProjectForLindon/pcbSch/pcb.brd?
+\i (01:19:05) fillin no 
+\t (01:19:06)     Journal end - Tue Oct 28 17:30:11 2014

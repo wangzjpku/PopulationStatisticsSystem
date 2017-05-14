@@ -1,0 +1,18 @@
+\t (00:00:02) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:02)     Journal start - Sat Jan 02 15:17:16 2016
+\t (00:00:02)         Host=WZJ-PC User=Administrator Pid=8792 CPUs=4
+\t (00:00:02) 
+\t (00:00:03) Starting new design...
+\i (00:00:03) trapsize 1057
+\i (00:00:03) trapsize 1026
+\i (00:00:03) trapsize 1063
+\i (00:00:03) trapsize 1078
+\i (00:00:03) trapsize 861
+\i (00:00:03) trapsize 1598
+\i (00:00:04) generaledit 
+\i (00:00:08) open 
+\i (00:00:25) fillin "D:\6-PCN-Project\8-摄像机云台转换控制系统\电路\remotepanasonicDB9-rout-V2-0.brd"
+\i (00:00:25) cd "D:\6-PCN-Project\8-摄像机云台转换控制系统\电路"
+\t (00:00:25) Opening existing design...
+\i (00:00:25) trapsize 3859
+\t (00:00:25)     Journal end - Sat Jan 02 15:17:39 2016

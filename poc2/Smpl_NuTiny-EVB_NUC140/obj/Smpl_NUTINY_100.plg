@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\5-ProjectForLindon\poc2\Smpl_NuTiny-EVB_NUC140\Smpl_NUTINY_140.uvproj
+Project File Date:  12/01/2015
+
+<h2>Output:</h2>
+Rebuild target 'Smpl_NUTINY_140'
+creating preprocessor file for core_cm0.c...
+core_cm0.c: Error:  #5: cannot open source input file "..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.c": No such file or directory
+compiling core_cm0.c...
+core_cm0.c: Error:  #5: cannot open source input file "..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.c": No such file or directory
+Target not created

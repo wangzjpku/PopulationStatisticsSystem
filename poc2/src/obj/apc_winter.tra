@@ -1,0 +1,40 @@
+*** Creating Trace Output File '.\obj\apc_winter.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\core_cm0.o"'
+### List of Objects: adding '".\obj\system_nuc1xx.o"'
+### List of Objects: adding '".\obj\startup_nuc1xx.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\counter_people.o"'
+### List of Objects: adding '".\obj\uart.o"'
+### List of Objects: adding '".\obj\sensor.o"'
+### List of Objects: adding '".\obj\log.o"'
+### List of Objects: adding '".\obj\system.o"'
+### List of Objects: adding '".\obj\pc.o"'
+### List of Objects: adding '".\obj\channel.o"'
+### List of Objects: adding '".\obj\slave.o"'
+### List of Objects: adding '".\obj\drvgpio.o"'
+### List of Objects: adding '".\obj\drvrtc.o"'
+### List of Objects: adding '".\obj\drvsys.o"'
+### List of Objects: adding '".\obj\drvtimer.o"'
+### List of Objects: adding '".\obj\drvuart.o"'
+### List of Objects: adding '".\obj\retarget.o"'
+### List of Objects: adding '".\obj\drvadc.o"'
+### List of Objects: adding '".\obj\drvpwm.o"'
+### List of Objects: adding '".\obj\drvi2c.o"'
+### List of Objects: adding '".\obj\drvi2s.o"'
+### List of Objects: adding '".\obj\drvpdma.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\obj\core_cm0.o" ".\obj\system_nuc1xx.o" ".\obj\startup_nuc1xx.o" ".\obj\main.o" ".\obj\counter_people.o" ".\obj\uart.o" ".\obj\sensor.o" ".\obj\log.o" ".\obj\system.o" ".\obj\pc.o" ".\obj\channel.o" ".\obj\slave.o" ".\obj\drvgpio.o" ".\obj\drvrtc.o" ".\obj\drvsys.o" ".\obj\drvtimer.o" ".\obj\drvuart.o" ".\obj\retarget.o" ".\obj\drvadc.o" ".\obj\drvpwm.o" ".\obj\drvi2c.o" ".\obj\drvi2s.o" ".\obj\drvpdma.o" --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --map --first='startup_NUC1xx.o(RESET)' --datacompressor=off --info=inline --entry Reset_Handler --summary_stderr --info summarysizes --map 
+--info sizes --info totals 
+ --list ".\lst\apc_winter.map" -o ".\obj\apc_winter.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\apc_winter.axf'
+### ADS-LD Command File: '.\obj\apc_winter.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\apc_winter.lnp', Handle=0x00000548
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\apc_winter.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,44 @@
+\t (01:07:29) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (01:07:29)     Journal start - Sat Jan 02 12:10:59 2016
+\t (01:07:29)         Host=WZJ-PC User=Administrator Pid=6240 CPUs=4
+\t (01:07:29) 
+\d (01:07:29) Database opened: D:/5-ProjectForLindon/PcbSch_Data/pcbSch_version4/pcb12.brd
+\i (01:07:29) generaledit 
+\i (01:07:34) setwindow form.vf_vis
+\i (01:07:34) FORM vf_vis 1 all_colorvisible YES 
+\i (01:07:35) FORM vf_vis 4 all_colorvisible YES 
+\i (01:07:40) FORM vf_vis 1 all_colorvisible NO 
+\i (01:07:41) FORM vf_vis 4 all_colorvisible NO 
+\i (01:07:42) setwindow pcb
+\i (01:07:42) zoom in 1 
+\i (01:07:42) setwindow pcb
+\i (01:07:42) zoom in 4732.0 3294.8
+\i (01:07:42) trapsize 188
+\i (01:07:43) zoom out 1 
+\i (01:07:43) setwindow pcb
+\i (01:07:43) zoom out 4882.3 3339.9
+\i (01:07:43) trapsize 376
+\i (02:16:45) pick grid 8600.6 4729.6
+\t (02:16:45) last pick:  8600.0  4730.0
+\i (02:16:45) zoom in 1 
+\i (02:16:45) setwindow pcb
+\i (02:16:45) zoom in 5490.7 4879.9
+\i (02:16:45) trapsize 188
+\i (02:16:45) zoom in 1 
+\i (02:16:45) setwindow pcb
+\i (02:16:45) zoom in 5490.7 4879.9
+\i (02:16:45) trapsize 94
+\i (02:16:46) zoom out 1 
+\i (02:16:46) setwindow pcb
+\i (02:16:46) zoom out 5490.6 4879.9
+\i (02:16:46) trapsize 188
+\i (02:16:46) zoom out 1 
+\i (02:16:46) setwindow pcb
+\i (02:16:46) zoom out 5490.7 4879.9
+\i (02:16:46) trapsize 376
+\i (02:16:46) zoom out 1 
+\i (02:16:46) setwindow pcb
+\i (02:16:46) zoom out 5490.5 4880.0
+\i (02:16:46) trapsize 751
+\i (02:16:48) exit 
+\t (02:16:48)     Journal end - Sat Jan 02 13:20:19 2016

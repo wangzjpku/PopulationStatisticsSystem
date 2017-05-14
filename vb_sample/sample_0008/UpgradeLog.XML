@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="sample_0008">
+</Property><Property Name="ソリューション ファイル" Value="C:\Users\5157544\Desktop\sample_0008\sample_0008.sln">
+</Property><Property Name="Date" Value="2014年7月28日">
+</Property><Property Name="Time" Value="20:04">
+</Property></Properties><Event ErrorLevel="0" Project="sample_0008" Source="sample_0008.vbproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="sample_0008" Source="sample_0008.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="sample_0008.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="sample_0008.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="sample_0008" Source="sample_0008.vbproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

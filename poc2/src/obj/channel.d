@@ -1,0 +1,12 @@
+.\obj\channel.o: channel.c
+.\obj\channel.o: d:\Keil\ARM\RV31\Inc\stdio.h
+.\obj\channel.o: channel.h
+.\obj\channel.o: counter_people.h
+.\obj\channel.o: log.h
+.\obj\channel.o: ..\..\..\Include\Driver\DrvTIMER.h
+.\obj\channel.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\channel.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\channel.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\channel.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\channel.o: ..\..\..\Include\System\SysInfra.h
+.\obj\channel.o: ..\..\..\Include\System\ModuleID.h

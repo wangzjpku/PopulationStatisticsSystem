@@ -1,0 +1,11 @@
+.\obj\uart.o: uart.c
+.\obj\uart.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\uart.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\uart.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\uart.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\uart.o: ..\..\..\Include\System\SysInfra.h
+.\obj\uart.o: ..\..\..\Include\System\ModuleID.h
+.\obj\uart.o: uart.h
+.\obj\uart.o: ..\..\..\Include\Driver\DrvUART.h
+.\obj\uart.o: common.h
+.\obj\uart.o: d:\Keil\ARM\RV31\Inc\string.h

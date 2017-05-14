@@ -1,0 +1,1125 @@
+Initialize engine version: 4.6.2f1 (bd99309c2ad7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: ATI Radeon HD 3450 - Dell Optiplex (ID=0x95c5)
+    Vendor:   ATI
+    VRAM:     250 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\wzj\Desktop\testpc_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\wzj\Desktop\testpc_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\wzj\Desktop\testpc_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\wzj\Desktop\testpc_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\wzj\Desktop\testpc_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\wzj\Desktop\testpc_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\wzj\Desktop\testpc_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\wzj\Desktop\testpc_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\wzj\Desktop\testpc_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\wzj\Desktop\testpc_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\wzj\Desktop\testpc_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\wzj\Desktop\testpc_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\wzj\Desktop\testpc_Data\Managed\BitGymMotionSDK.dll (this message is harmless)
+Loading C:\Users\wzj\Desktop\testpc_Data\Managed\BitGymMotionSDK.dll into Unity Child Domain
+- Completed reload, in  0.231 seconds
+desktop: 1680x1050 59Hz; virtual: 1680x1050 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found.
+<RI> Input initialized.
+Platform assembly: C:\Users\wzj\Desktop\testpc_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\wzj\Desktop\testpc_Data\Managed\System.dll (this message is harmless)
+Lens distortion-correction disabled. Causes: [Must be running on Android device]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+getting lock
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+made mono tracker
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+WebCam Authorized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Cannot find webcam device no camera available..
+ 
+(Filename:  Line: 107)
+
+Created webcamtexture with desired dimensions: 160,160 and got texture with dimensions: 16,16
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+Look rotation viewing vector is zero
+ 
+(Filename:  Line: 70)
+
+disable
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+disabled, tearing down webcamTexture
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+

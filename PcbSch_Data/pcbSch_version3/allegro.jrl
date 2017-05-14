@@ -1,0 +1,19 @@
+\t (00:00:13) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (00:00:13)     Journal start - Mon Feb 09 09:41:29 2015
+\t (00:00:13)         Host=WZJ-PC User=Administrator Pid=8956 CPUs=4
+\t (00:00:13) 
+\t (00:00:15) Starting new design...
+\i (00:00:16) trapsize 1057
+\i (00:00:16) trapsize 1026
+\i (00:00:16) trapsize 1063
+\i (00:00:16) trapsize 1078
+\i (00:00:16) trapsize 861
+\i (00:00:16) trapsize 1598
+\i (00:00:17) generaledit 
+\i (00:00:30) open 
+\i (00:00:35) fillin "D:\5-ProjectForLindon\PcbSch_Data\pcbSch_version4\pcb12.brd"
+\i (00:00:35) cd "D:\5-ProjectForLindon\PcbSch_Data\pcbSch_version4"
+\t (00:00:35) Opening existing design...
+\i (00:00:36) fillin yes 
+\i (00:00:36) trapsize 376
+\t (00:00:36)     Journal end - Mon Feb 09 09:41:52 2015

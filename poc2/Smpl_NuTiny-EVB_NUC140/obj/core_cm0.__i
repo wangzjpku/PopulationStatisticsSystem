@@ -1,0 +1,5 @@
+-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections --asm --interleave --asm_dir ".\\lst\\" -I.\ -I..\..\..\..\CMSIS\CM0\CoreSupport -I..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx -I..\..\..\Include -I..\..\..\Include\Driver 
+-I d:\Keil\ARM\RV31\INC 
+-I d:\Keil\ARM\CMSIS\Include 
+-I d:\Keil\ARM\Inc\ARM 
+-DUSE_STDPERIPH_DRIVER -o ".\obj\core_cm0.o" --list_dir ".\\lst\\" --list --omf_browse ".\obj\core_cm0.crf" --depend ".\obj\core_cm0.d" "..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.c"

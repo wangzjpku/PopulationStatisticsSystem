@@ -1,0 +1,3 @@
+--cpu Cortex-M0 ".\obj\core_cm0.o" ".\obj\system_nuc1xx.o" ".\obj\startup_nuc1xx.o" ".\obj\main.o" ".\obj\counter_people.o" ".\obj\uart.o" ".\obj\sensor.o" ".\obj\log.o" ".\obj\system.o" ".\obj\pc.o" ".\obj\channel.o" ".\obj\slave.o" ".\obj\drvgpio.o" ".\obj\drvrtc.o" ".\obj\drvsys.o" ".\obj\drvtimer.o" ".\obj\drvuart.o" ".\obj\retarget.o" ".\obj\drvadc.o" ".\obj\drvpwm.o" ".\obj\drvi2c.o" ".\obj\drvi2s.o" ".\obj\drvpdma.o" --ro-base 0x00000000 --entry 0x00000000 --rw-base 0x20000000 --entry Reset_Handler --first __Vectors --strict --map --first='startup_NUC1xx.o(RESET)' --datacompressor=off --info=inline --entry Reset_Handler --summary_stderr --info summarysizes --map 
+--info sizes --info totals 
+ --list ".\lst\apc_winter.map" -o ".\obj\apc_winter.axf"

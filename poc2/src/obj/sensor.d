@@ -1,0 +1,16 @@
+.\obj\sensor.o: sensor.c
+.\obj\sensor.o: d:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\sensor.o: d:\Keil\ARM\RV31\Inc\string.h
+.\obj\sensor.o: ..\..\..\Include\Driver\DrvADC.h
+.\obj\sensor.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\sensor.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\sensor.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\sensor.o: ..\..\..\Include\System\SysInfra.h
+.\obj\sensor.o: ..\..\..\Include\System\ModuleID.h
+.\obj\sensor.o: ..\..\..\Include\Driver\DrvGPIO.h
+.\obj\sensor.o: ..\..\..\Include\Driver\DrvSys.h
+.\obj\sensor.o: system.h
+.\obj\sensor.o: sensor.h
+.\obj\sensor.o: slave.h
+.\obj\sensor.o: uart.h
+.\obj\sensor.o: ..\..\..\Include\Driver\DrvUART.h
